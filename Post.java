@@ -5,8 +5,8 @@ import java.util.ArrayList;
  * social network. Posts can be stored and displayed. This class
  * serves as a superclass for more specific post types.
  * 
- * @author Michael Kölling and David J. Barnes
- * @version 0.2
+ * @author Raymond Terry
+ * @version 1.5
  */
 public class Post 
 {
