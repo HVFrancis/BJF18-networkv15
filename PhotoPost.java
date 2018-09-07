@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * The main part of the post consists of a photo and a caption.
  * Other data, such as author and time, are also stored.
  * 
- * @author Michael Kölling, David J. Barnes and Aaron M. Aven
+ * @author Michael Kölling, David J. Barnes and Aaron Mathew. Aven
  * @version 0.2
  */
 public class PhotoPost extends Post
