@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * This version does not save the data to disk, and it does not provide any
  * search or ordering functions.
  * 
- * @author Michael Kölling and David J. Barnes
+ * @author Michael Kölling, David J. Barnes and Aaron M. Aven
  * @version 0.1
  */
 public class NewsFeed
